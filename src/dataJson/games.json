@@ -1,0 +1,7118 @@
+{
+    "tags": [
+        {
+            "id": "Html",
+            "name": "Html"
+        },
+        {
+            "id": "Keno",
+            "name": "Keno"
+        },
+        {
+            "id": "Table",
+            "name": "Table"
+        },
+        {
+            "id": "Fishing",
+            "name": "Fishing"
+        }
+    ],
+    "sections": [
+        {
+            "id": "netent",
+            "name": "NetEnt"
+        },
+        {
+            "id": "amatic",
+            "name": "Amatic"
+        },
+        {
+            "id": "apollo",
+            "name": "Apollo"
+        },
+        {
+            "id": "novoline",
+            "name": "Novoline"
+        },
+        {
+            "id": "igrosoft",
+            "name": "Igrosoft"
+        },
+        {
+            "id": "igt",
+            "name": "IGT"
+        },
+        {
+            "id": "aristocrat",
+            "name": "Aristocrat"
+        },
+        {
+            "id": "gaminator",
+            "name": "Gaminator"
+        },
+        {
+            "id": "quickspin",
+            "name": "Quickspin"
+        },
+        {
+            "id": "playtech",
+            "name": "Playtech"
+        },
+        {
+            "id": "microgaming",
+            "name": "Microgaming"
+        },
+        {
+            "id": "wazdan",
+            "name": "Wazdan"
+        },
+        {
+            "id": "kajot",
+            "name": "Kajot"
+        },
+        {
+            "id": "merkur",
+            "name": "Merkur"
+        },
+        {
+            "id": "booongo",
+            "name": "Booongo"
+        },
+        {
+            "id": "playson",
+            "name": "Playson"
+        },
+        {
+            "id": "konami",
+            "name": "Konami"
+        },
+        {
+            "id": "fishing",
+            "name": "Fishing"
+        },
+        {
+            "id": "spadegaming",
+            "name": "Spadegaming"
+        },
+        {
+            "id": "egt",
+            "name": "EGT"
+        },
+        {
+            "id": "pragmatic",
+            "name": "Pragmatic"
+        },
+        {
+            "id": "wmg",
+            "name": "WMG"
+        }
+    ],
+    "games": [
+        {
+            "string_id": "red_baron_html",
+            "name": "Red Baron HTML",
+            "tags": [
+                "html"
+            ],
+            "section": "aristocrat"
+        },
+        {
+            "string_id": "warlords",
+            "name": "Warlords - Crystal of Power",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "fourfowlplay_wmg",
+            "name": "Four Fowl Play",
+            "tags": [
+                "html"
+            ],
+            "section": "wmg"
+        },
+        {
+            "string_id": "paradise_cq",
+            "name": "Paradise",
+            "tags": [
+                "html",
+                "Fishing",
+                "new"
+            ],
+            "section": "spadegaming"
+        },
+        {
+            "string_id": "zombieparty",
+            "name": "Zombie Party",
+            "tags": [
+                "html",
+                "Fishing",
+                "new"
+            ],
+            "section": "spadegaming"
+        },
+        {
+            "string_id": "alienhunter",
+            "name": "Alien Hunter",
+            "tags": [
+                "html",
+                "Fishing",
+                "new"
+            ],
+            "section": "spadegaming"
+        },
+        {
+            "string_id": "super_20_html",
+            "name": "Super 20",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "magellan_plus_html",
+            "name": "Magellan Plus",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "50_horses_html",
+            "name": "50 Horses",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "inca_gold_ii_html",
+            "name": "Inca Gold II",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "royal_gardens_html",
+            "name": "Royal Gardens",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "the_white_wolf_html",
+            "name": "The White Wolf",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "casino_mania_html",
+            "name": "Casino Mania",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "oil_company_ii_html",
+            "name": "Oil Company II",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "flaming_dice_html",
+            "name": "Flaming Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "5_hot_dice_html",
+            "name": "5 Hot Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "40_super_dice_html",
+            "name": "40 Super Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "20_super_dice_html",
+            "name": "20 Super Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "neon_dice_html",
+            "name": "Neon Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "supreme_dice_html",
+            "name": "Supreme Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "dice_of_ra_html",
+            "name": "Dice of Ra",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "burning_dice_html",
+            "name": "Burning Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "2_dragons_html",
+            "name": "2 Dragons",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "lucky_and_wild_html",
+            "name": "Lucky and Wild",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "more_lucky_and_wild_html",
+            "name": "More Lucky and Wild",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "game_of_luck_html",
+            "name": "Game of Luck",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "dice_and_roll_html",
+            "name": "Dice and Roll",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "more_dice_and_roll_html",
+            "name": "More Dice and Roll",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "lucky_hot_html",
+            "name": "Lucky Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "versailles_gold_html",
+            "name": "Versailles Gold",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "keno_universe_html",
+            "name": "Keno Universe",
+            "tags": [
+                "Keno",
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "book_of_magic_html",
+            "name": "Book of Magic",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "burning_hot_html",
+            "name": "Burning Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "dragon_reels_html",
+            "name": "Dragon Reels",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "age_of_troy_html",
+            "name": "Age of Troy",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "amazing_amazonia_html",
+            "name": "Amazing Amazonia",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "blue_heart_html",
+            "name": "Blue Heart",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "rolling_dice_html",
+            "name": "Rolling Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "100_dice_html",
+            "name": "100 Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "summer_bliss_html",
+            "name": "Summer Bliss",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "100_super_hot_html",
+            "name": "100 Super Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "the_big_journey_html",
+            "name": "The Big Journey",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "like_a_diamond_html",
+            "name": "Like a Diamond",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "more_like_a_diamond_html",
+            "name": "More Like a Diamond",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "100_burning_hot_html",
+            "name": "100 Burning Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "20_burning_hot_html",
+            "name": "20 Burning Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "100_super_dice_html",
+            "name": "100 Super Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "10_burning_heart_html",
+            "name": "10 Burning Heart",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "100_cats_html",
+            "name": "100 Cats",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "20_diamonds_html",
+            "name": "20 Diamonds",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "gods_of_gold",
+            "name": "Gods of Gold",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "whos_the_bride",
+            "name": "Who's the Bride",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "pirate_from_the_east",
+            "name": "Pirate From The East",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "street_fighter_2",
+            "name": "Street Fighter™ II",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "cash_noire",
+            "name": "Cash Noire",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "vs10firestrike_prg",
+            "name": "FIre Strike",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs1masterjoker_prg",
+            "name": "Master Joker",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs243fortune_prg",
+            "name": "Caishen's Gold",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs25dragonkingdom_prg",
+            "name": "Dragon Kingdom",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs40frrainbow_prg",
+            "name": "Fruit Rainbow",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs20rhino_prg",
+            "name": "Great Rhino",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs25wolfgold_prg",
+            "name": "Wolf Gold",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs4096bufking_prg",
+            "name": "Bufallo King",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "flaming_hot_html",
+            "name": "Flaming Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "fortune_spells_html",
+            "name": "Fortune Spells",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "fruits_kingdom_html",
+            "name": "Fruits Kingdom",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "grace_of_cleopatra_html",
+            "name": "Grace of Cleopatra",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "majestic_forest_html",
+            "name": "Majestic Forest",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "olympus_glory_html",
+            "name": "Olympus Glory",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "royal_secrets_html",
+            "name": "Royal Secrets",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "shining_crown_html",
+            "name": "Shining Crown",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "super_hot_20_html",
+            "name": "Super Hot 20",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "super_hot_40_html",
+            "name": "Super Hot 40",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "supreme_hot_html",
+            "name": "Supreme Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "ultimate_hot_html",
+            "name": "Ultimate Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "40_burning_hot_html",
+            "name": "40 Burning Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "40_lucky_king_html",
+            "name": "40 Lucky King",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "coral_island_html",
+            "name": "Coral Island",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "5_burning_heart_html",
+            "name": "5 Burning Heart",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "dazzling_hot_html",
+            "name": "Dazzling Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "rage_of_the_seas",
+            "name": "Rage of the Seas",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "wilderland",
+            "name": "Wilderland",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "dark_king",
+            "name": "Dark King",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "hotline2",
+            "name": "Hotline 2",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "vs243mwarrior_prg",
+            "name": "Monkey Warrior",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs25chilli_prg",
+            "name": "Chilli Heat",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs25mmouse_prg",
+            "name": "Money Mouse",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs25newyear_prg",
+            "name": "Lucky New Year",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs25pyramid_prg",
+            "name": "Pyramid King",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs40wildwest_prg",
+            "name": "Wild West Gold",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs5ultra_prg",
+            "name": "Ultra Hold&Spin",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs9aztecgemsdx_prg",
+            "name": "Aztec Gems Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "oceans_treasure",
+            "name": "Ocean's Treasure",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "long_pao",
+            "name": "Long Pao",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "druids_dream",
+            "name": "Druids' Dream",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "reel_rush_2",
+            "name": "Reel Rush 2",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "hells_kitchen",
+            "name": "Hell's Kitchen",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "vs10bookoftut_prg",
+            "name": "Book of Tut",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs15diamond_prg",
+            "name": "Diamond Strike",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs1tigers_prg",
+            "name": "Triple Tigers",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "vs20rhinoluxe_prg",
+            "name": "Great Rhino Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "pragmatic"
+        },
+        {
+            "string_id": "aztec_glory_html",
+            "name": "Aztec Glory",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "fast_money_html",
+            "name": "Fast Money",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "retro_style_html",
+            "name": "Retro Style",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "the_great_egypt_html",
+            "name": "The Great Egypt",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "witches_charm_html",
+            "name": "Witches Charm",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "zodiac_wheel_html",
+            "name": "Zodiac Wheel",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "rise_of_ra_html",
+            "name": "Rise of Ra",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "40_burning_dice_html",
+            "name": "40 Burning Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "egt"
+        },
+        {
+            "string_id": "flowers_christmas",
+            "name": "Flowers Christmas Edition",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "fruitshop_christmas",
+            "name": "Fruitshop Christmas Edition",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "hot7dice_original",
+            "name": "Hot 7 Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "hotscatterdice_original",
+            "name": "Hot Scatter Dice",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "allwayswin_original",
+            "name": "All Ways WIn",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "partynight_original",
+            "name": "Party Night",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "goldenjoker_original",
+            "name": "Golden  Joker",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "serengeti_kings",
+            "name": "Serengeti Kings",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "wishmaster_html",
+            "name": "Wish Master",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "wild_turkey_html",
+            "name": "Wild Turkey",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "robin_hood_html",
+            "name": "Robin Hood",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "go_bananas_html",
+            "name": "Go Bananas",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "fruit_case_html",
+            "name": "Fruit Case",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "creature_from_the_black_lagoon_html",
+            "name": "Creature From The Black Lagoon",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "wings_of_riches",
+            "name": "Wings of Riches",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "secret_of_the_stones_html",
+            "name": "Secret of the Stones",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "hot40_original",
+            "name": "hot40_original",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "enchantedcleopatra_original",
+            "name": "Enchanted Cleopatra",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "allwaysjoker_original",
+            "name": "All Ways Joker",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "magicscatter_original",
+            "name": "Magic Scatter",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "billysgame_original",
+            "name": "Billys Game",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "hottestfruits20_original",
+            "name": "Hottest Fruits 20",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "dice81_ag",
+            "name": "Dice 81",
+            "tags": [
+                "html"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "bookofradeluxe_gt_html",
+            "name": "Book of Ra Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "bookofraclassic_gt_html",
+            "name": "Book of Ra Classic",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "columbusdeluxe_gt_html",
+            "name": "Columbus Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "dolphinspearlclassic_gt_html",
+            "name": "Dolphin`s Pearl Classic",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "dolphinspearldeluxe_gt_html",
+            "name": "Dolphin`s Pearl Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "dynastyofra_gt_html",
+            "name": "Dynasty of Ra",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "faust_gt_html",
+            "name": "Faust",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "goldenark_gt_html",
+            "name": "Golden Ark",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "gorilla_gt_html",
+            "name": "Gorilla",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "justjewelsdeluxe_gt_html",
+            "name": "Just Jewels Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "lordoftheocean_gt_html",
+            "name": "Lord of the Ocean Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "luckyladyscharmdeluxe_gt_html",
+            "name": "Lucky Lady`s Charm Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "orca_gt_html",
+            "name": "Orca",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "plentyontwenty_gt_html",
+            "name": "Plenty on Twenty",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "redlady_gt_html",
+            "name": "Red Lady",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "captainventure_gt_html",
+            "name": "Captain Venture",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "indianspirit_gt_html",
+            "name": "Indian Spirit",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "katana_gt_html",
+            "name": "Katana",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "dazzlingdiamonds_gt_html",
+            "name": "Dazzling Diamonds",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "sizzlinggems_gt_html",
+            "name": "Sizzling Gems",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "fruitilicious_gt_html",
+            "name": "Frutilicious",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "sizzlinghotdeluxe_gt_html",
+            "name": "Sizzling Hot Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "roaringforties_gt_html",
+            "name": "Roaring Forties",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "rex_gt_html",
+            "name": "Rex",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "flamedancer_gt_html",
+            "name": "Flame Dancer",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "pharaohstomb_gt_html",
+            "name": "Pharaoh`s Tomb",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "mysticsecrets_gt_html",
+            "name": "Mystic Secrets",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "xtrahot_gt_html",
+            "name": "Xtra Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "sizzling6_gt_html",
+            "name": "Sizzling 6",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "ultrahotdeluxe_gt_html",
+            "name": "Ultra Hot Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "flamencoroses_gt_html",
+            "name": "Flamenco Roses",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "beetlemaniadeluxe_gt_html",
+            "name": "Beetle Mania Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "blackjack_classic_touch",
+            "name": "Blackjack Classic touch",
+            "tags": [
+                "Table",
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "roulette_touch",
+            "name": "Roulette touch",
+            "tags": [
+                "Table",
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "gryphonsgolddeluxe_gt_html",
+            "name": "Gryphon`s Gold Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "seasirens_gt_html",
+            "name": "Sea Sirens",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "cindereela_gt_html",
+            "name": "Cindereela",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "fairyqueen_gt_html",
+            "name": "Fairy Queen",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "queenofheartsdeluxe_gt_html",
+            "name": "Queen of Hearts Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "sweetsins_gt_html",
+            "name": "Sweet Sins",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "megajoker_gt_html",
+            "name": "Mega Joker",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "leonardoscode_gt_html",
+            "name": "Leonardo's Code",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "rumpelwildspins_gt_html",
+            "name": "Rumpel Wildspins",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "lightningwild_gt_html",
+            "name": "Lightning Wild",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "alwayshotdeluxe_gt_html",
+            "name": "Always Hot Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "helena_gt_html",
+            "name": "Helena",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "admiral_nelson_original",
+            "name": "Admiral Nelson",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "a_book_of_aztec_original",
+            "name": "A Book of Aztec",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "book_of_fortune_original",
+            "name": "Book of Fortune",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "lucky_coin_original",
+            "name": "Lucky Coin",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "lovely_lady_original",
+            "name": "Lovely Lady",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "magic_idol_original",
+            "name": "Magic Idol",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "blue_dolphin_original",
+            "name": "Blue Dolphin",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "bells_on_fire_original",
+            "name": "Bells on Fire",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "hot_seven_original",
+            "name": "Hot Seven",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "eye_of_ra_original",
+            "name": "Eye of Ra",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "allways_fruits_original",
+            "name": "Allways Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "dragons_pearl_original",
+            "name": "Dragon's Pearl",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "fortunas_fruits_original",
+            "name": "Fortuna's Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "ladyjoker_original",
+            "name": "Lady Joker",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "wolf_moon_original",
+            "name": "Wolf Moon",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "royal_unicorn_original",
+            "name": "Royal Unicorn",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "mermaids_gold_original",
+            "name": "Mermaid's Gold",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "hot_twenty_original",
+            "name": "Hot Twenty",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "hot_diamonds_original",
+            "name": "Hot Diamonds",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "wild_stars_original",
+            "name": "Wild Stars",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "arising_phoenix_original",
+            "name": "Arising Phoenix",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "aztec_secret_original",
+            "name": "Aztec Secret",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "bells_on_fire_hot_original",
+            "name": "Bells on Fire HOT",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "bells_on_fire_rombo_original",
+            "name": "Bells on Fire ROMBO",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "billyonaire_original",
+            "name": "Billyonaire",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "cool_diamonds_original",
+            "name": "Cool Diamonds II",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "diamond_cats_original",
+            "name": "Diamond Cats",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "diamond_monkey_original",
+            "name": "Diamond Monkey",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "diamonds_on_fire_original",
+            "name": "Diamonds on Fire",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "dragons_kingdom_original",
+            "name": "Dragons Kingdom",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "fire_ice_original",
+            "name": "Fire & Ice",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "gem_star_original",
+            "name": "Gem Star",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "golden_book_original",
+            "name": "Golden Book",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "hot_scatter_original",
+            "name": "Hot Scatter",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "hot_star_original",
+            "name": "Hot Star",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "lucky_bells_original",
+            "name": "Lucky Bells",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "magic_owl_original",
+            "name": "Magic Owl",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "merry_fruits_original",
+            "name": "Merry Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "party_time_original",
+            "name": "Party Time",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "red_chili_original",
+            "name": "Red Chilli",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "tweety_birds_original",
+            "name": "Tweety Birds",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "wild_dragon_original",
+            "name": "Wild Dragon",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "wild_respin_original",
+            "name": "Wild Respin",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "pirate_original_html",
+            "name": "Pirate",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "sweet_life_2_original_html",
+            "name": "Sweet Life 2",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "therealking_gt_html",
+            "name": "The Real King",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "inferno_gt_html",
+            "name": "Inferno",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "dragonsdeep_gt_html",
+            "name": "Dragon's Deep",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "keks_original_html",
+            "name": "Keks",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "garage_original_html",
+            "name": "Garage",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "crazy_monkey_2_original_html",
+            "name": "Crazy Monkey 2",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "lucky_haunter_original_html",
+            "name": "Lucky Haunter",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "resident_original_html",
+            "name": "Resident",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "casinova_original",
+            "name": "Casanova",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "rock_climber_original_html",
+            "name": "Rock Climber",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "fruit_cocktail_original_html",
+            "name": "Fruit Cocktail",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "gnome_original_html",
+            "name": "Gnome",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "sweet_life_original_html",
+            "name": "Sweet Life",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "crazy_monkey_original_html",
+            "name": "Crazy Monkey",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "pirate_2_original_html",
+            "name": "Pirate 2",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "island_original_html",
+            "name": "Island",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "island_2_original_html",
+            "name": "Island 2",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "fruit_cocktail_2_original_html",
+            "name": "Fruit cocktail 2",
+            "tags": [
+                "html"
+            ],
+            "section": "igrosoft"
+        },
+        {
+            "string_id": "miss_kitty",
+            "name": "Miss Kitty",
+            "tags": [],
+            "section": "aristocrat"
+        },
+        {
+            "string_id": "queen_of_the_nile_2_html",
+            "name": "Queen of the Nile 2 HTML",
+            "tags": [
+                "html"
+            ],
+            "section": "aristocrat"
+        },
+        {
+            "string_id": "choy_sun_doa_html",
+            "name": "Choy Sun Doa HTML",
+            "tags": [
+                "html"
+            ],
+            "section": "aristocrat"
+        },
+        {
+            "string_id": "lucky_88_html",
+            "name": "Lucky 88 HTML",
+            "tags": [
+                "html"
+            ],
+            "section": "aristocrat"
+        },
+        {
+            "string_id": "miss_kitty_html",
+            "name": "Miss Kitty HTML",
+            "tags": [
+                "html"
+            ],
+            "section": "aristocrat"
+        },
+        {
+            "string_id": "big_ben_html",
+            "name": "Big Ben HTML",
+            "tags": [
+                "html"
+            ],
+            "section": "aristocrat"
+        },
+        {
+            "string_id": "50_dragons_html",
+            "name": "50 Dragons HTML",
+            "tags": [
+                "html"
+            ],
+            "section": "aristocrat"
+        },
+        {
+            "string_id": "dolphins_pearl_classic_html",
+            "name": "Dolphin's Pearl classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "king_of_cards_classic_html",
+            "name": "King of Cards classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "lucky_ladys_charm_classic_html",
+            "name": "Lucky Ladys Charm classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "pharaons_gold2_classic_html",
+            "name": "Pharaons Gold 2 classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "the_money_game_classic_html",
+            "name": "The Money Game classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "columbus_classic_html",
+            "name": "Columbus classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "just_jewels_classic_html",
+            "name": "Just Jewels classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "sizzling_hot_classic_html",
+            "name": "Sizzling Hot classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "queen_of_hearts_classic_html",
+            "name": "Queen of Hearts classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "book_of_ra_classic_html",
+            "name": "Book of Ra classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "sharky_classic_html",
+            "name": "Sharky classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "gryphons_gold_classic_html",
+            "name": "Gryphons Gold classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "xtra_hot_classic_html",
+            "name": "Xtra Hot classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "always_hot_classic_html",
+            "name": "Always Hot classic",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "bananas_go_bahamas_html",
+            "name": "Bananas Go Bahamas",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "diamond_trio_html",
+            "name": "Diamond Trio",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "magic_money_html",
+            "name": "Magic Money",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "marco_polo_classic_html",
+            "name": "Marco Polo",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "riches_of_india_html",
+            "name": "Riches of India",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "three_html",
+            "name": "Three!",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "hat_trick_html",
+            "name": "Hat Trick",
+            "tags": [
+                "html"
+            ],
+            "section": "gaminator"
+        },
+        {
+            "string_id": "hotchance_gt_html",
+            "name": "Hot Chance",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "shootingstars_gt_html",
+            "name": "Shooting Stars",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "magic81_gt_html",
+            "name": "Magic 81",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "riverqueen_gt_html",
+            "name": "River Queen",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "springqueen_gt_html",
+            "name": "Spring Queen",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "summerqueen_gt_html",
+            "name": "Summer Queen",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "serengetiheat_gt_html",
+            "name": "Serengeti Heat",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "jewelsofthesea_gt_html",
+            "name": "Jewels of the Sea",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "bookofradeluxe6_gt_html",
+            "name": "Book of Ra 6 deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "pharaohsring_gt_html",
+            "name": "Pharaoh`s Ring",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "sizzlinghot6extragold_gt_html",
+            "name": "Sizzling Hot 6 Extra Gold",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "wildhorses_gt_html",
+            "name": "Wild Horses",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "mayanmoons_gt_html",
+            "name": "Mayan Moons",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "africansimba_gt_html",
+            "name": "African Simba",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "bookofstars_gt_html",
+            "name": "Book of Stars",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "bullionbars_gt_html",
+            "name": "Bullion Bars",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "caribbeanholidays_gt_html",
+            "name": "Caribbean Holidays",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "magicprincess_gt_html",
+            "name": "Magic Princess",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "mermaidspearl_gt_html",
+            "name": "Mermaid's Pearl",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "questforgold_gt_html",
+            "name": "Quest for Gold",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "ramses2_gt_html",
+            "name": "Ramses II",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "royaldynasty_gt_html",
+            "name": "Royal Dynasty",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "secretelixir_gt_html",
+            "name": "Secret Elixir",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "showgirls_gt_html",
+            "name": "Show Girls",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "spinningstars_gt_html",
+            "name": "Spinning Stars",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "thealchemist_gt_html",
+            "name": "The Alchemist",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "luckyladyscharmdeluxe6_gt_html",
+            "name": "Lucky Lady`s Charm 6 Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "queencleopatra_gt_html",
+            "name": "Queen Cleopatra",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "tresamigos_gt_html",
+            "name": "Tres Amigos",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "coinofapollo_gt_html",
+            "name": "Coin of Apollo",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "junglequeen_gt_html",
+            "name": "Jungle Queen",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "storiesofinfinity_gt_html",
+            "name": "Stories of Infinity",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "redlineracer_gt_html",
+            "name": "Redline Racer",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "bookofmaya_gt_html",
+            "name": "Book of Maya",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "bugsnbees_gt_html",
+            "name": "Bugs'n'Bees",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "luckyrose_gt_html",
+            "name": "Lucky Rose",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "perchta_gt_html",
+            "name": "Perchta",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "pharaohsnight_gt_html",
+            "name": "Pharaoh`s Night",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "wildadventure_gt_html",
+            "name": "Wild Adventure",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "dragonspearl_gt_html",
+            "name": "Dragon`s Pearl",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "victorious_touch",
+            "name": "Victorious touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "south_park_reel_chaos_touch",
+            "name": "South Park Reel Chaos touch",
+            "tags": [
+                "Mobile"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "blackjack_touch",
+            "name": "Blackjack touch",
+            "tags": [
+                "Table",
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "big_panda_original",
+            "name": "Big Panda",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "qso_primezone",
+            "name": "Prime Zone",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "blackjack_single_deck_touch",
+            "name": "Blackjack Single Deck touch",
+            "tags": [
+                "Table",
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "twomayans_gt_html",
+            "name": "Two Mayans",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "americangangster_gt_html",
+            "name": "American Gangster",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "ninjapathclient_gt_html",
+            "name": "Ninja Path",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "king_of_slots",
+            "name": "King of Slots",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "bob_epic_viking_quest",
+            "name": "BOB the Epic Viking Quest",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "butterfly_staxx",
+            "name": "Butterfly Staxx",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "planet_of_the_apes",
+            "name": "Planet of the Apes",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "shangrila_cluster_pays",
+            "name": "Shangrila Cluster Pays",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "wolf_cub",
+            "name": "Wolf Cub",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "fruit_spin",
+            "name": "Fruit Spin",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "scruffy_duck",
+            "name": "Scruffy Duck",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "copycats",
+            "name": "CopyCats",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "motorhead",
+            "name": "Motörhead",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "joker_pro",
+            "name": "Joker Pro",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "bollywood_story",
+            "name": "Bollywood Story",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "arcane",
+            "name": "Arcane: Reel Chaos",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "cash_o_matic",
+            "name": "Cash-o-matic",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "kings_of_chicago",
+            "name": "Kings of Chicago",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "twin_spin_deluxe",
+            "name": "Twin Spin Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "powerstars_gt_html",
+            "name": "PowerStars",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "magic27_gt_html",
+            "name": "Magic 27",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "burninghotrespin_gt_html",
+            "name": "Burning Hot Respin",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "asianattraction_gt_html",
+            "name": "Asian Attraction",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "wonderworld_gt_html",
+            "name": "Wonderworld",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "romancolosseum_gt_html",
+            "name": "Roman Colloseum",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "qso_sabretooth",
+            "name": "Razortooth",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_secondstrike",
+            "name": "Second Strike",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_sevens",
+            "name": "Sevens High",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "whk_pt",
+            "name": "White King",
+            "tags": [
+                "html"
+            ],
+            "section": "playtech"
+        },
+        {
+            "string_id": "batbeg_pt",
+            "name": "Batman Begins",
+            "tags": [
+                "html"
+            ],
+            "section": "playtech"
+        },
+        {
+            "string_id": "batjok_pt",
+            "name": "Batman & the Joker Jewels",
+            "tags": [
+                "html"
+            ],
+            "section": "playtech"
+        },
+        {
+            "string_id": "batpen_pt",
+            "name": "Batman & the Penguin Prize",
+            "tags": [
+                "html"
+            ],
+            "section": "playtech"
+        },
+        {
+            "string_id": "bvs_pt",
+            "name": "Batman vs Superman: Dawn of Justice",
+            "tags": [
+                "html"
+            ],
+            "section": "playtech"
+        },
+        {
+            "string_id": "glr2_pt",
+            "name": "Gladiator: Road to Rome",
+            "tags": [
+                "html"
+            ],
+            "section": "playtech"
+        },
+        {
+            "string_id": "jla_pt",
+            "name": "Justice League",
+            "tags": [
+                "html"
+            ],
+            "section": "playtech"
+        },
+        {
+            "string_id": "manos_pt",
+            "name": "Man of Steel",
+            "tags": [
+                "html"
+            ],
+            "section": "playtech"
+        },
+        {
+            "string_id": "rbcp_pt",
+            "name": "Robocop",
+            "tags": [
+                "html"
+            ],
+            "section": "playtech"
+        },
+        {
+            "string_id": "thedk_pt",
+            "name": "The Dark Knight",
+            "tags": [
+                "Table",
+                "html"
+            ],
+            "section": "playtech"
+        },
+        {
+            "string_id": "qso_rapunzel2",
+            "name": "Rapunzel Tower",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_sakurafortune",
+            "name": "Sakura Fortune",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "stardust_mg_html",
+            "name": "Stardust",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "coolwolf_mg_html",
+            "name": "Cool Wolf",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "suntide_mg_html",
+            "name": "Suntide",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "hot_neon_original",
+            "name": "Hot Neon",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "wild_seven_original",
+            "name": "Wild 7",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "mt2_wzdn",
+            "name": "Magic Target Deluxe",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "mt_wzdn",
+            "name": "Magic Target",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "nc81_wzdn",
+            "name": "Night Club 81",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "hot_27_original",
+            "name": "Hot 27",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "grandx_original",
+            "name": "Grand X",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "attraction",
+            "name": "Attraction",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "dragon_island",
+            "name": "Dragon Island",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "blood_ag",
+            "name": "Blood",
+            "tags": [
+                "html"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "wildatheart_gt_html",
+            "name": "Wild at Heart",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "bonusjokerii_ag",
+            "name": "Bonus Joker II",
+            "tags": [
+                "html"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "lucky81_ag",
+            "name": "Lucky 81",
+            "tags": [
+                "html"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "mysteryjokerii_ag",
+            "name": "Mystery Joker II",
+            "tags": [
+                "html"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "pandora_ag",
+            "name": "Pandora",
+            "tags": [
+                "html"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "slotbirds_ag",
+            "name": "Slot Birds",
+            "tags": [
+                "html"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "wildfruits27_ag",
+            "name": "Wild Fruits 27",
+            "tags": [
+                "html"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "thirteen_gt_html",
+            "name": "Thirteen",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "midnightfruits81_ag",
+            "name": "Midnight Fruits 81",
+            "tags": [
+                "html"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "redhotfruits_gt_html",
+            "name": "Redhot Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "oceantale_gt_html",
+            "name": "Ocean Tale",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "hypnohippo_gt_html",
+            "name": "Hypno Hippo",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "arrivaarriva_gt_html",
+            "name": "Arriva Arriva",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "eyeofthedragon_gt_html",
+            "name": "Eye of the Dragon",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "redhot40_gt_html",
+            "name": "Redhot 40",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "cashrunner_gt_html",
+            "name": "Cash Runner",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "redhot20_gt_html",
+            "name": "Redhot 20",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "redhotburning_gt_html",
+            "name": "Redhot Burning",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "barsandsevens_gt_html",
+            "name": "Bars and Sevens",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "king_of_slots_html",
+            "name": "King of Slots",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "reel_steal_html",
+            "name": "Reel Steal",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "archangels",
+            "name": "Archangels",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "asgardian_stones",
+            "name": "Asgardian Stones",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "hotline",
+            "name": "Hotline",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "wild_bazaar",
+            "name": "Wild Bazaar",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "vikings_html",
+            "name": "Vikings",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "wildotron_3000",
+            "name": "Wildotron 3000",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "eggomatic_html",
+            "name": "Eggomatic",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "jingle_spin",
+            "name": "Jingle Spin",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "ghost_pirates_html",
+            "name": "Ghost Pirates",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "glow_touch",
+            "name": "Glow",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "gangsterworld_ag",
+            "name": "Gangster World",
+            "tags": [
+                "html"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "madmechanicdeluxe_ag",
+            "name": "Mad Mechanic",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "jestersluck_gt_html",
+            "name": "Jesters Luck",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "wolfrun_igt_html",
+            "name": "Wolf Run",
+            "tags": [
+                "html"
+            ],
+            "section": "igt"
+        },
+        {
+            "string_id": "turboslots_ag",
+            "name": "Turbo Slots",
+            "tags": [
+                "html"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "poly_diamonds_kjt_html",
+            "name": "Poly Diamonds",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "vikings_kjt_html",
+            "name": "Vikings",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "eggomatic",
+            "name": "Eggomatic",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "fisticuffs",
+            "name": "Fisticuffs",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "demolition_squad",
+            "name": "Demolition Squad",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "baccarat",
+            "name": "Baccarat",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "berry_burst",
+            "name": "Berry Burst",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "berry_burst_max",
+            "name": "Berry Burst max",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "wild_shark_original",
+            "name": "Wild Shark",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "smilingjokerii_ag",
+            "name": "Smiling Joker II",
+            "tags": [
+                "html"
+            ],
+            "section": "apollo"
+        },
+        {
+            "string_id": "tastystreet_mg_html",
+            "name": "Tasty Street",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "n108heroes_mg_html",
+            "name": "108 Heroes",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "wildscarabs_mg_html",
+            "name": "Wild Scarabs",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "loaded_mg_html",
+            "name": "Loaded",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "agentjaneblonde_mg_html",
+            "name": "Agent Jane Blonde",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "luckykoi_mg_html",
+            "name": "Lucky Koi",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "luckytwins_mg_html",
+            "name": "Lucky Twins",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "emperorofthesea_mg_html",
+            "name": "Emperor of the Sea",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "asianbeauty_mg_html",
+            "name": "Asian Beauty",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "double_stacks",
+            "name": "Double Stacks",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "turn_your_fortune",
+            "name": "Turn Your Fortune",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "halloween_jack",
+            "name": "Halloween Jack",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "kenoplustwoball_gt_html",
+            "name": "Keno plus 2Balls",
+            "tags": [
+                "Keno",
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "blackjack_html",
+            "name": "Black Jack 3 hands",
+            "tags": [
+                "Table",
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "emoji_planet",
+            "name": "Emoji Planet",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "lost_relics",
+            "name": "Lost Relics",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "breakdabankagain_mg_html",
+            "name": "Break da Bank Again",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "burningdesire_mg_html",
+            "name": "Burning Desire",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "dolphinquest_mg_html",
+            "name": "Dolphin Quest",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "eagleswings_mg_html",
+            "name": "Eagles Wings",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "huangditheyellowemperor_mg_html",
+            "name": "Huangdi Yellow Emperor",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "sixacrobats_mg_html",
+            "name": "Six Acrobats",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "prettykitty_mg_html",
+            "name": "Pretty Kitty",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "alaskanfishing_mg_html",
+            "name": "Alaskan Fishing",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "avalon_mg_html",
+            "name": "Avalon",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "cashapillar_mg_html",
+            "name": "Cashapillar",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "deckthehalls_mg_html",
+            "name": "Deck the Halls",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "emoticoins_mg_html",
+            "name": "Emoticoins",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "forbiddenthrone_mg_html",
+            "name": "Forbidden Throne",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "fortunegirl_mg_html",
+            "name": "Fortune Girl",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "gameofthrones_lines_mg_html",
+            "name": "Game of Thrones",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "spinsane",
+            "name": "Spinsane",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "ctc_2_wzdn",
+            "name": "Colin the Cat",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "wild_worlds",
+            "name": "Wild Worlds",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "secrets_of_atlantis",
+            "name": "Secrets of Atlantis",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "blood_suckers_2",
+            "name": "Blood Suckers 2",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "secrets_of_christmas",
+            "name": "Secrets of Christmas",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "jungle_spirit",
+            "name": "Jungle Spirit",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "dead_or_alive_html",
+            "name": "Dead or Alive",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "spellcast_html",
+            "name": "Spellcast",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "gameofthrones_ways_mg_html",
+            "name": "Game of Thrones 243 Ways",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "highlander_mg_html",
+            "name": "Highlander",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "santa_vs_rudolf",
+            "name": "Santa vs Rudolf",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "the_wolfs_bane",
+            "name": "the Wolf's Bane",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "qso_arkofmystery",
+            "name": "Ark of Mystery",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "kingofcards_gt_html",
+            "name": "King of Cards",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "strolling_staxx",
+            "name": "Strolling Staxx",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "golden_grimoire",
+            "name": "Golden Grimoire",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "scudamore",
+            "name": "Scudamore",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "excalibur_html",
+            "name": "Excalibur",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "temple_of_nudges",
+            "name": "Temple of Nudges",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "swipe_and_roll",
+            "name": "Swipe and Roll",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "dead_or_alive_2",
+            "name": "Dead or Alive 2",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "french_roulette_html",
+            "name": "French Roulette",
+            "tags": [
+                "Table",
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "american_roulette_html",
+            "name": "American Roulette",
+            "tags": [
+                "Table",
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "oinkcountrylove_mg_html",
+            "name": "Oink Country Love",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "sugarparade_mg_html",
+            "name": "Sugar Parade",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "thunderstruck_mg_html",
+            "name": "Thunderstruck",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "thunderstruckii_mg_html",
+            "name": "Thunderstruck II",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "beautifulbones_mg_html",
+            "name": "Beautiful Bones",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "halloween_mg_html",
+            "name": "Halloween",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "immortalromance_mg_html",
+            "name": "Immortal Romance",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "jurassicworld_mg_html",
+            "name": "Jurassic World",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "luckylittlegods_mg_html",
+            "name": "Lucky Little Gods",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "scrooge_mg_html",
+            "name": "Scrooge",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "rise_of_maya",
+            "name": "Rise of Maya",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "ozzy",
+            "name": "Ozzy Ozbourne",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "space_wars_html",
+            "name": "space_wars_html",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "witchcraft_academy",
+            "name": "Witchcraft Academy",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "qso_goldlab",
+            "name": "GoldLab",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "magicmirrordeluxe_mk_html",
+            "name": "Magic Mirror deluxe II",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "amuletofthepharaoh_mk_html",
+            "name": "Amulet of the Pharaoh",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "bakerstreet_mk_html",
+            "name": "Baker Street",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "bigbuckbunny_mk_html",
+            "name": "Big buck bunny",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "blazingstar_mk_html",
+            "name": "Blazing Star",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "candyfruits_mk_html",
+            "name": "Candy Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "cashfruitsplus_mk_html",
+            "name": "Cash fruits plus",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "coffeehousemystery_mk_html",
+            "name": "Coffeehouse Mystery",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "doubletriplechance_mk_html",
+            "name": "Double Triple chance",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "dragonstreasure_mk_html",
+            "name": "Dragons Treasure",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "extrawild_mk_html",
+            "name": "Extra Wild",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "phantom_of_the_opera",
+            "name": "Phantom of the Opera",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "butterfly_staxx_2",
+            "name": "Butterfly Staxx 2",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "wild_wild_west",
+            "name": "Wild Wild West",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "elements_html",
+            "name": "Elements",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "grand_spinn",
+            "name": "Grand Spinn",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "narcos",
+            "name": "Narcos",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "wild_water_html",
+            "name": "Wild Water",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "reel_rush_html",
+            "name": "Reel Rush html",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "pandoras_box",
+            "name": "Pandora`s Box",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "tornado_touch",
+            "name": "Tornado touch",
+            "tags": [
+                "Mobile"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "south_park_touch",
+            "name": "South Park touch",
+            "tags": [
+                "Mobile"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "aliens_touch",
+            "name": "Aliens touch",
+            "tags": [
+                "Mobile"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "steam_tower_touch",
+            "name": "Steam Tower touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "sweety_honey_fruity",
+            "name": "Sweety Honey Fruity",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "fireofegypt_mk_html",
+            "name": "Fire of Egypt",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "twin_happiness",
+            "name": "Twin Happiness",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "victorious_max",
+            "name": "Victorious Max",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "qso_spinions",
+            "name": "Spinions Beach Party",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_phoenixsun",
+            "name": "Phoenix Sun",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_mayana",
+            "name": "Mayana",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_mightyarthur",
+            "name": "Mighty Arthur",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_stickybandits",
+            "name": "Sticky Bandits",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_goldilocks2",
+            "name": "Goldilocks & Wild Bears",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_leprechaunhills",
+            "name": "Leprechaun Hills",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "basketballstar_mg_html",
+            "name": "Basketball Star",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "titansofthesunhyperion_mg_html",
+            "name": "Titans of the Sun: Hyperion",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "titansofthesuntheia_mg_html",
+            "name": "Titans of the Sun: Heia",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "godsofgiza_mg_html",
+            "name": "Gods of Giza",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "tombraider_mg_html",
+            "name": "Tomb Raider",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "silverfang_mg_html",
+            "name": "Silver Fang",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "santaswildride_mg_html",
+            "name": "Santas Wild Ride",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "pistoleras_mg_html",
+            "name": "Pistoleras",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "mayanprincess_mg_html",
+            "name": "Mayan Princess",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "ladyinred_mg_html",
+            "name": "Lady in Red",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "kingsofcash_mg_html",
+            "name": "King of Cash",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "goldengate_mk_html",
+            "name": "Golden Gate",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "finn_and_the_swirly_spin",
+            "name": "Finn & the swirly spin",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "fortune_rangers",
+            "name": "Fortune rangers",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "golden_tavern",
+            "name": "Golden tavern",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "br_2_wzdn",
+            "name": "Burning Reels",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "bt70_wzdn",
+            "name": "Back to the 70`s",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "hs_wzdn",
+            "name": "Hungry Shark",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "itf_2_wzdn",
+            "name": "In the Forest",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "goldofpersia_mk_html",
+            "name": "Gold of Persia",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "jamboreejubilee_mk_html",
+            "name": "Jamboree Jubilee",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "knightslife_mk_html",
+            "name": "Knights Life",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "multifruits_mk_html",
+            "name": "Multifruits",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "railroad_mk_html",
+            "name": "Railroad",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "risingliner_mk_html",
+            "name": "Rising liner",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "super7reels_mk_html",
+            "name": "Super 7 Reels",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "ultra7wild_mk_html",
+            "name": "Ultra 7 Wild",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "vampiresnight_mk_html",
+            "name": "Vampires Night",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "xtra10liner_mk_html",
+            "name": "Xtra 10 Liner",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "qso_bigbotcrew",
+            "name": "Big Bot Crew",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_colossus",
+            "name": "Colossus",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_divinedreams",
+            "name": "Divine Dreams",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_dragonshrine",
+            "name": "Dragon Shrine",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_duriandynamite",
+            "name": "Durian Dynamite",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_easternemeralds",
+            "name": "Eastern Emeralds",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_fairygate",
+            "name": "Fairy Gate",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_hotsync",
+            "name": "Hot Sync",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_mountainking",
+            "name": "Mountain King",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_northernsky",
+            "name": "Northern Sky",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_piedpiper",
+            "name": "Pied Piper",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_piratescharm",
+            "name": "Pirates Charm",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_talesofdoctordolittle",
+            "name": "Tales of Doctor Dolittle",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_volcanoriches",
+            "name": "Volcano Riches",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_wildchase",
+            "name": "Wild Chase",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_winsoffortune",
+            "name": "Wins of Fortune",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_bbw",
+            "name": "Big Bad Wolf",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_crystalqueen",
+            "name": "Crystal Queen",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_geniestouch",
+            "name": "Genies Touch",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_illuminous",
+            "name": "Illuminous",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "ultraseven_original",
+            "name": "Ultra Seven",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "cats_igt_html",
+            "name": "Cats",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "igt"
+        },
+        {
+            "string_id": "cleopatra_igt_html",
+            "name": "Cleopatra",
+            "tags": [
+                "html"
+            ],
+            "section": "igt"
+        },
+        {
+            "string_id": "goldengoddess_igt_html",
+            "name": "Golden Goddess",
+            "tags": [
+                "html"
+            ],
+            "section": "igt"
+        },
+        {
+            "string_id": "qso_dwarfsgonewild",
+            "name": "Dwarfs Gone Wild",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_grand",
+            "name": "The Grand",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_hiddenvalley2",
+            "name": "Hidden Valley 2",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_ivan",
+            "name": "Ivan & the Immortal King",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "qso_jokerstrike",
+            "name": "Joker Strike",
+            "tags": [
+                "html"
+            ],
+            "section": "quickspin"
+        },
+        {
+            "string_id": "ice_bar_27_kjt_html",
+            "name": "Ice Bar 27",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "neon_fruits_kjt_html",
+            "name": "Neon Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "nine_stars_kjt_html",
+            "name": "Nine Stars",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "turbo_27_kjt_html",
+            "name": "Turbo 27",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "joker_27_plus_kjt_html",
+            "name": "Joker 27 plus",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "rouletteroyal_original",
+            "name": "Roulette Royal",
+            "tags": [
+                "Table",
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "joker_boom_plus_kjt_html",
+            "name": "Joker Boom plus",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "big_bang_touch",
+            "name": "Big Bang touch",
+            "tags": [
+                "Mobile"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "frankenstein_touch",
+            "name": "Frankenstein touch",
+            "tags": [
+                "Mobile"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "dracula_touch",
+            "name": "Dracula touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "subtopia_touch",
+            "name": "Subtopia touch",
+            "tags": [
+                "Mobile"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "nrvna_touch",
+            "name": "Nrvna touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "goldcup_mk_html",
+            "name": "Gold Cup",
+            "tags": [
+                "html"
+            ],
+            "section": "merkur"
+        },
+        {
+            "string_id": "joker_81_kjt_html",
+            "name": "Joker 81",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "joker_strong_kjt_html",
+            "name": "Joker Strong",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "multi_vegas_81_kjt_html",
+            "name": "Multi Vegas 81",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "stars_kjt_html",
+            "name": "Stars",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "joker_27_kjt_html",
+            "name": "Joker 27",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "wanted_kjt_html",
+            "name": "Wanted",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "dreamdate_mg_html",
+            "name": "Dream Date",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "junglejimeldorado_mg_html",
+            "name": "Jungle Jim Eldorado",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "thefinerreelsoflife_mg_html",
+            "name": "the Finer Reels of Life",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "lifeofriches_mg_html",
+            "name": "Life of Riches",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "kingtusk_mg_html",
+            "name": "King Tusk",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "adventurepalace_mg_html",
+            "name": "Adventure Palace",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "ariana_mg_html",
+            "name": "Ariana",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "dragonz_mg_html",
+            "name": "Dragonz",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "mermaidsmillions_mg_html",
+            "name": "Mermaids Millions",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "thetwistedcircus_mg_html",
+            "name": "the Twisted Circus",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "breakaway_mg_html",
+            "name": "Breakaway",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "hollyjollypenguins_mg_html",
+            "name": "Hollyjolly Penguins",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "isis_mg_html",
+            "name": "Isis",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "kathmandu_mg_html",
+            "name": "Kathmandu",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "monsterwheels_mg_html",
+            "name": "Monster Wheels",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "thephantomoftheopera_mg_html",
+            "name": "the Phantom of the Opera",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "thunderstruckii_mg_flash",
+            "name": "Thunderstruck II",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "adventurepalace_mg_flash",
+            "name": "Adventure Palace",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "alaskanfishing_mg_flash",
+            "name": "Alaskan Fishing",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "ariana_mg_flash",
+            "name": "Ariana",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "avalon_mg_flash",
+            "name": "Avalon",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "breakdabankagain_mg_flash",
+            "name": "Break da Bank again",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "burningdesire_mg_flash",
+            "name": "Burning Desire",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "cashapillar_mg_flash",
+            "name": "Cashapillar",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "deckthehalls_mg_flash",
+            "name": "Deck the Halls",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "dolphinquest_mg_flash",
+            "name": "Dolphin Quest",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "eagleswings_mg_flash",
+            "name": "Eagles Wings",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "gameofthrones_lines_mg_flash",
+            "name": "Game of Thrones",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "gameofthrones_ways_mg_flash",
+            "name": "Game of Thrones 243 ways",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "huangditheyellowemperor_mg_flash",
+            "name": "Huangdi Yellow Emperor",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "immortalromance_mg_flash",
+            "name": "Immortal Romance",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "isis_mg_flash",
+            "name": "Isis",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "kathmandu_mg_flash",
+            "name": "Kathmandu",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "prettykitty_mg_flash",
+            "name": "Pretty Kitty",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "scrooge_mg_flash",
+            "name": "Scrooge",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "thunderstruck_mg_flash",
+            "name": "Thunderstruck",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "agentjaneblonde_mg_flash",
+            "name": "Agent Jane Blonde",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "asianbeauty_mg_flash",
+            "name": "Asian Beauty",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "conan",
+            "name": "Conan",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "tales_of_krakow",
+            "name": "Tales of Krakow",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "hot_city",
+            "name": "Hot City",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "fortuneteller",
+            "name": "FortuneTeller",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "diamond_dogs",
+            "name": "Diamond Dogs",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "champion",
+            "name": "Champion of the track",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "blood_suckers",
+            "name": "Blood Suckers",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "crusade_of_fortune",
+            "name": "Crusade of Fortune",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "reel_steal",
+            "name": "Reel Steal",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "dead_or_alive",
+            "name": "Dead or Alive",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "devils_delight",
+            "name": "Devil`s Delight",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "ghost_pirates",
+            "name": "Ghost Pirates",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "piggy_riches",
+            "name": "Piggy Riches",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "wild_turkey",
+            "name": "Wild Turkey",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "gonzos_quest",
+            "name": "Gonzo`s Quest",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "flowers",
+            "name": "Flowers",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "jack_hammer",
+            "name": "Jack Hammer",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "jack_hammer_2",
+            "name": "Jack Hammer 2",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "mythic_maiden",
+            "name": "Mythic Maiden",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "victorious",
+            "name": "Victorious",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "subtopia",
+            "name": "Subtopia",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "starburst",
+            "name": "Starburst",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "frankenstein",
+            "name": "Frankenstein",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "fruitshop",
+            "name": "Fruit Shop",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "lucky_angler",
+            "name": "Lucky Angler",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "thief",
+            "name": "Thief",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "egyptian_heroes",
+            "name": "Egyptian Heroes",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "jack_and_the_beanstalk",
+            "name": "Jack & Beanstalk",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "robin_hood",
+            "name": "Robin Hood",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "zombies",
+            "name": "Zombies",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "muse",
+            "name": "Muse",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "secret_of_the_stones",
+            "name": "Secrets of Stones",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "scarface",
+            "name": "Scarface",
+            "tags": [],
+            "section": "netent"
+        },
+        {
+            "string_id": "jekyllandhyde_mg_flash",
+            "name": "Jekyll&Hyde",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "kingsofcash_mg_flash",
+            "name": "King of Cash",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "ladyinred_mg_flash",
+            "name": "Lady in Red",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "mayanprincess_mg_flash",
+            "name": "Mayan Princess",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "mermaidsmillions_mg_flash",
+            "name": "Mermaids Millions",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "orion_mg_flash",
+            "name": "Orion",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "hp_wzdn",
+            "name": "Hot Party",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "motr_wzdn",
+            "name": "Magic of the Ring",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "fp_wzdn",
+            "name": "Fenix Play",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "fruitsandroyals_gt_html",
+            "name": "Fruits and Royals",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "fruitsensation_gt_html",
+            "name": "Fruit Sensation",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "silverfang_mg_flash",
+            "name": "Silver Fang",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "tombraider_mg_flash",
+            "name": "Tomb Raider",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "girlswithguns_mg_flash",
+            "name": "Girls with Guns",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "lifeofriches_mg_flash",
+            "name": "Life of Riches",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "loaded_mg_flash",
+            "name": "Loaded",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "luckytwins_mg_flash",
+            "name": "Lucky Twins",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "rroldkingcole_mg_flash",
+            "name": "Old King Cole",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "serenity_mg_flash",
+            "name": "Serenity",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "suntide_mg_flash",
+            "name": "Suntide",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "taboospell_mg_flash",
+            "name": "Taboo spell",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "basketballstar_mg_flash",
+            "name": "Basketball Star",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "bigkahuna_mg_flash",
+            "name": "Big Kahuna",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "bootytime_mg_flash",
+            "name": "Booty Time",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "breakaway_mg_flash",
+            "name": "Breakaway",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "coolwolf_mg_flash",
+            "name": "Cool Wolf",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "godsofgiza_mg_flash",
+            "name": "Gods of Giza",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "gothic_mg_flash",
+            "name": "Gothic",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "hellsgrannies_mg_flash",
+            "name": "Hell`s Grannies",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "thelandoflemuria_mg_flash",
+            "name": "the Land of Lemuria",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "ninjamagic_mg_flash",
+            "name": "Ninja Magic",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "pistoleras_mg_flash",
+            "name": "Pistoleras",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "savannaking_mg_flash",
+            "name": "Savanna King",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "stardust_mg_flash",
+            "name": "Stardust",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "terminator2_mg_flash",
+            "name": "Terminator 2",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "rabbitinthehat_mg_flash",
+            "name": "Rabbit in the Hat",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "emperorofthesea_mg_flash",
+            "name": "Emperor of the Sea",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "robojack_mg_flash",
+            "name": "Robo Jack",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "mountolympus_mg_flash",
+            "name": "Mount Olympus",
+            "tags": [],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "puppet_show_kjt_html",
+            "name": "Puppet Show",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "ring_of_fire_xl_kjt_html",
+            "name": "Ring of Fire XL",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "secrets_of_egypt_kjt_html",
+            "name": "Secrets of Egypt",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "simply_the_best_81_kjt_html",
+            "name": "Simply the best 81",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "twin_spin_touch",
+            "name": "Twin Spin touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "jack_hammer_touch",
+            "name": "Jack Hammer touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "jack_and_the_beanstalk_touch",
+            "name": "Jack & Beanstalk touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "piggy_riches_touch",
+            "name": "Piggy Riches touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "magic_portals_touch",
+            "name": "Magic Portals touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "gonzos_quest_touch",
+            "name": "Gonzos Quest touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "jack_hammer_2_touch",
+            "name": "Jack Hammer 2 touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "lucky_angler_touch",
+            "name": "Lucky Angler touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "lights_touch",
+            "name": "Lights touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "fruitshop_touch",
+            "name": "Fruit Shop touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "starburst_touch",
+            "name": "Starburst touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "spinata_grande_touch",
+            "name": "Spinata Grande touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "mythic_maiden_touch",
+            "name": "Mythic Maiden touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "flowers_touch",
+            "name": "Flowers touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "dazzle_me",
+            "name": "Dazzle Me",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "hooks_heroes",
+            "name": "Hook's Heroes",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "neon_staxx",
+            "name": "Neon Staxx",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "sparks",
+            "name": "Sparks",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "stickers",
+            "name": "Stickers",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "the_invisible_man",
+            "name": "the Invisible Man",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "koi_princess",
+            "name": "Koi Princess",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "pyramid_new",
+            "name": "Pyramid",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "blood_suckers_touch",
+            "name": "Blood Suckers touch",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "drive_multiplier_mayhem",
+            "name": "Drive Multiplier Mayhem",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "guns_and_roses",
+            "name": "Guns 'N' Roses",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "jimi_hendrix",
+            "name": "Jimi Hendrix",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "aloha_cluster_pays",
+            "name": "Aloha! Cluster Pays",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "football",
+            "name": "Football: Champions Cup",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "theme_park",
+            "name": "Theme Park",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "book_of_sun_bng_html",
+            "name": "Book of Sun",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "age_of_caesar_bng_html",
+            "name": "Age of Caesar",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "777_gems_respin_bng_html",
+            "name": "777 Gems Respin",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "fu_cai_shen_bng_html",
+            "name": "Fu Cai Shen",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "monkey_money_bng_html",
+            "name": "Monkey Money",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "hth_wzdn",
+            "name": "Highway to hell",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "mbe_wzdn",
+            "name": "Miami Beach",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "wg_wzdn",
+            "name": "Wild Girls",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "ts_wzdn",
+            "name": "Triple Star",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "olympian_gods_bng_html",
+            "name": "Olympian Gods",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "fp27_wzdn",
+            "name": "Fenix Play 27",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "bh_wzdn",
+            "name": "Black Hawk",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "bom_wzdn",
+            "name": "Book of Magic",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "cdt_wzdn",
+            "name": "Corrida Romance",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "cs_wzdn",
+            "name": "Captain Shark",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "gl40_wzdn",
+            "name": "Good Luck 40",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "mf4_wzdn",
+            "name": "Magic Fruit 4",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "mh4_wzdn",
+            "name": "Magic Hot 4",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "bs_wzdn",
+            "name": "Burning Stars",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "dj27_wzdn",
+            "name": "Demon Jack 27",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "scarab_riches_bng_html",
+            "name": "Scarab Riches",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "jb_wzdn",
+            "name": "Jackpot Builders",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "hm_2_wzdn",
+            "name": "Highschool Manga",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "hh_wzdn",
+            "name": "Haunted Hospital",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "h777_wzdn",
+            "name": "Hot 777",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "dr81_wzdn",
+            "name": "Dino Reels 81",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "cc_wzdn",
+            "name": "Crazy Cars",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "cc81_wzdn",
+            "name": "CrisCross 81",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "bw_wzdn",
+            "name": "Bell Wizard",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "bp_wzdn",
+            "name": "Beach Party",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "bhs_wzdn",
+            "name": "Black Horse",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "vh_wzdn",
+            "name": "Vegas Hot",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "sh_wzdn",
+            "name": "Super Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "mf_wzdn",
+            "name": "Magic Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "lq_wzdn",
+            "name": "Lucky Queen",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "fb_wzdn",
+            "name": "Fire Bird",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "je_wzdn",
+            "name": "Joker Explosion",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "super_joker_40_kjt_html",
+            "name": "Super Joker 40",
+            "tags": [
+                "html"
+            ],
+            "section": "kajot"
+        },
+        {
+            "string_id": "gs_wzdn",
+            "name": "Golden Sphinx",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "lt_wzdn",
+            "name": "Lost Treasure",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "mf27_wzdn",
+            "name": "Magic Fruits 27",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "mf81_wzdn",
+            "name": "Magic Fruits 81",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "mh_wzdn",
+            "name": "Magic Hot",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "wj81_wzdn",
+            "name": "Wild Jack 81",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "wj_wzdn",
+            "name": "Wild Jack",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "s777_wzdn",
+            "name": "Sizzling 777",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "lf_wzdn",
+            "name": "Lucky Fortune",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "val_wzdn",
+            "name": "Valhalla",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "wth81_wzdn",
+            "name": "Welcome to Hell 81",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "war_wzdn",
+            "name": "Wins & Replay",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "vh81_wzdn",
+            "name": "Vegas Hot 81",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "tm_wzdn",
+            "name": "Tetrimania",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "myj_wzdn",
+            "name": "Mystery Jack",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "joh_wzdn",
+            "name": "Jack on Hold",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "king_of_3_kingdoms",
+            "name": "King of 3 Kingdoms",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "jumanji",
+            "name": "Jumanji",
+            "tags": [
+                "html"
+            ],
+            "section": "netent"
+        },
+        {
+            "string_id": "cashville_mg_html",
+            "name": "Cashville",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "carnaval_mg_html",
+            "name": "Carnaval",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "bushtelegraph_mg_html",
+            "name": "Bush Telegraph",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "breakdabank_mg_html",
+            "name": "Break Da Bank",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "luckyfirecracker_mg_html",
+            "name": "Lucky Firecracker",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "theratpack_mg_html",
+            "name": "The Rat Pack",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "supeitup_mg_html",
+            "name": "Supe It Up",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "bhd_wzdn",
+            "name": "Black Hawk Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "motrd_wzdn",
+            "name": "Magic of the Ring Deluxe",
+            "tags": [
+                "html"
+            ],
+            "section": "wazdan"
+        },
+        {
+            "string_id": "fruits_of_the_nile_c_ps_html",
+            "name": "Fruits of the Nile",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "god_of_sea_ps_html",
+            "name": "God of Sea",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "imperial_fruits_100_ps_html",
+            "name": "Imperial Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "imperial_fruits_40_ps_html",
+            "name": "Imperial Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "imperial_fruits_5_ps_html",
+            "name": "Imperial Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "5reeldrive_mg_html",
+            "name": "5 Reel Drive",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "reelthunder_mg_html",
+            "name": "Reel Thunder",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "surewin_mg_html",
+            "name": "Sure Win",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "joker_expand_ps_html",
+            "name": "Joker Expand",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "legend_of_cleopatra_ps_html",
+            "name": "Legend of Cleopatra",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "lucky_staxx_40_ps_html",
+            "name": "Lucky Staxx",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "mega_burning_wins_27_ps_html",
+            "name": "Mega Burning Wins",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "phoenix_fire_ps_html",
+            "name": "Phoenix Fire",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "red_chilli_wins_ps_html",
+            "name": "Red Chilli Wins",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "african_spirit_bng_html",
+            "name": "African spirit",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "rome_caesars_glory_ps_html",
+            "name": "Rome Caesar's Glory",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "fruity_wild_bng_html",
+            "name": "Fruity Wild",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "christmas_charm_bng_html",
+            "name": "Christmas Charm",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "patricks_pub_bng_html",
+            "name": "Patrick's Pub",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "rise_of_egypt_ps_html",
+            "name": "Rise of Egypt",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "sakura_dragon_ps_html",
+            "name": "Sakura Dragon",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "sevens_n_fruits_20_ps_html",
+            "name": "Sevens & Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "sevens_n_fruits_ps_html",
+            "name": "Sevens & Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "super_burning_wins_ps_html",
+            "name": "Super Burning Wins",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "super_burning_wins_respin_ps_html",
+            "name": "Super Burning Wins Respin",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "thunder_reels_c_ps_html",
+            "name": "Thunder Reels",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "wild_burning_wins_5_ps_html",
+            "name": "Wild Burning Wins",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "destinyofathena_knm_html",
+            "name": "Destiny of Athena",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "konami"
+        },
+        {
+            "string_id": "imperialwealth_knm_html",
+            "name": "Imperial Wealth",
+            "tags": [
+                "html"
+            ],
+            "section": "konami"
+        },
+        {
+            "string_id": "lotusland_knm_html",
+            "name": "Lotus Land",
+            "tags": [
+                "html"
+            ],
+            "section": "konami"
+        },
+        {
+            "string_id": "romantribune_knm_html",
+            "name": "Roman Tribune",
+            "tags": [
+                "html"
+            ],
+            "section": "konami"
+        },
+        {
+            "string_id": "secretofthemermaid_knm_html",
+            "name": "Secret of the Mermaid",
+            "tags": [
+                "html"
+            ],
+            "section": "konami"
+        },
+        {
+            "string_id": "wealthymonkey_knm_html",
+            "name": "Wealthy Monkey",
+            "tags": [
+                "html"
+            ],
+            "section": "konami"
+        },
+        {
+            "string_id": "heartofromance_knm_html",
+            "name": "Heart of Romance",
+            "tags": [
+                "html"
+            ],
+            "section": "konami"
+        },
+        {
+            "string_id": "wonderrose_knm_html",
+            "name": "Wonder Rose",
+            "tags": [
+                "html"
+            ],
+            "section": "konami"
+        },
+        {
+            "string_id": "100_joker_staxx_ps_html",
+            "name": "100 Joker Staxx",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "3_fruits_win_10_ps_html",
+            "name": "3 Fruits Win",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "40_joker_staxx_ps_html",
+            "name": "40 Joker Staxx",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "book_of_gold_choice_ps_html",
+            "name": "Book of Gold Choice",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "book_of_gold_ps_html",
+            "name": "Book of Gold",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "fruits_and_clovers_20_ps_html",
+            "name": "Fruits & Clovers",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "fruits_and_jokers_100_ps_html",
+            "name": "Fruits & Jokers",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "fruits_and_jokers_20_ps_html",
+            "name": "Fruits & Jokers",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "fruits_and_jokers_40_ps_html",
+            "name": "Fruits & Jokers",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "fruits_n_stars_c_ps_html",
+            "name": "Fruits 'n' Stars",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "fruits_n_stars_he_ps_html",
+            "name": "Fruits 'n' Stars Holiday Edition",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "fruit_xtreme_ps_html",
+            "name": "Fruit Xtreme",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "fortunestacks_knm_html",
+            "name": "Fortune Stacks",
+            "tags": [
+                "html"
+            ],
+            "section": "konami"
+        },
+        {
+            "string_id": "gypsyfire_knm_html",
+            "name": "Gypsy Fire",
+            "tags": [
+                "html"
+            ],
+            "section": "konami"
+        },
+        {
+            "string_id": "goldenwolves_knm_html",
+            "name": "Golden Wolves",
+            "tags": [
+                "html"
+            ],
+            "section": "konami"
+        },
+        {
+            "string_id": "chinamystery_knm_html",
+            "name": "China Mystery",
+            "tags": [
+                "html"
+            ],
+            "section": "konami"
+        },
+        {
+            "string_id": "book_of_gold_classic_ps_html",
+            "name": "Book of Gold Classic",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "burning_wins_ps_html",
+            "name": "Burning Wins",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "clover_riches_ps_html",
+            "name": "Clover Riches",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "fruit_supreme_25_ps_html",
+            "name": "Fruit Supreme",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "joker_expand_40_ps_html",
+            "name": "Joker Expand",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "juice_and_fruits_c_ps_html",
+            "name": "Juice 'n' Fruits",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "sky_way_c_ps_html",
+            "name": "Sky Way",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "wild_warriors_ps_html",
+            "name": "Wild Warrior",
+            "tags": [
+                "html"
+            ],
+            "section": "playson"
+        },
+        {
+            "string_id": "shen_long_mi_bao_bng_html",
+            "name": "Shen Long Mi Bao",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "singles_day_bng_html",
+            "name": "Singles Day",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "vikings_gods_gold_bng_html",
+            "name": "vikings_gods_gold_bng_html",
+            "tags": [
+                "html",
+                "new"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "88_wild_dragon_bng_html",
+            "name": "88 Wild Dragon",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "book_of_sun_multichance_bng_html",
+            "name": "Book of Sun Multichance",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "fortune_multiplier_bng_html",
+            "name": "Fortune Multiplier",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "lucky_xmas_bng_html",
+            "name": "Lucky Xmax",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "secret_of_nefertiti_2_bng_html",
+            "name": "Secret of Nefertiti 2",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "sky_gems_5_wilds_bng_html",
+            "name": "Sky Gems 5 Wilds",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "star_gems_bng_html",
+            "name": "Star Gems",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "vikings_winter_bng_html",
+            "name": "vikings_winter_bng_html",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "wild_888_bng_html",
+            "name": "Wild 888",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "supreme_fortune_bng_html",
+            "name": "Supreme Fortune",
+            "tags": [
+                "html"
+            ],
+            "section": "booongo"
+        },
+        {
+            "string_id": "tallyho_mg_html",
+            "name": "Tally Ho",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "springbreak_mg_html",
+            "name": "Spring Break",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "ladiesnite_mg_html",
+            "name": "Ladies Night",
+            "tags": [
+                "html"
+            ],
+            "section": "microgaming"
+        },
+        {
+            "string_id": "luckyjoker40_original",
+            "name": "Lucky Joker 40",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "luckyjoker20_original",
+            "name": "Lucky Joker 20",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "luckyjoker5_original",
+            "name": "Lucky Joker 5",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "bookofqueen_original",
+            "name": "Book of Queen",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "bookoflords_original",
+            "name": "Book of Lords",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "hotfruits100_original",
+            "name": "Hot Fruits 100",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "hotfruits40_original",
+            "name": "Hot Fruits 40",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "hotfruits20_original",
+            "name": "Hot Fruits 20",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "hot27dice_original",
+            "name": "Hot 27 Dice",
+            "tags": [
+                "html"
+            ],
+            "section": "amatic"
+        },
+        {
+            "string_id": "fishing2",
+            "name": "Fishing2",
+            "tags": [
+                "html",
+                "Fishing"
+            ],
+            "section": "fishing"
+        },
+        {
+            "string_id": "fishinggod",
+            "name": "fishinggod",
+            "tags": [
+                "html",
+                "Fishing"
+            ],
+            "section": "spadegaming"
+        },
+        {
+            "string_id": "fishingwar",
+            "name": "fishingwar",
+            "tags": [
+                "html",
+                "Fishing"
+            ],
+            "section": "spadegaming"
+        },
+        {
+            "string_id": "bookoframagic_gt_html",
+            "name": "Book of Ra Magic",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "chilibomba_gt_html",
+            "name": "Chili Bomba",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        },
+        {
+            "string_id": "sizzlinghotquattro_gt_html",
+            "name": "Sizzling Hot Quattro",
+            "tags": [
+                "html"
+            ],
+            "section": "novoline"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+.gamesPage {
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+.gameCard {
+  width: 200px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  color: black;
+  background-color: white;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.line {
+  border: 4px solid #ffffff;
+  border-radius: 12px;
+  margin: 40px auto;
+}
+
+.title {
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+}
+
+.tag {
+  margin-left: 4px;
+}

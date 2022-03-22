@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    "outDir": "build/dist",
+    "module": "esnext",
+    "target": "es6",
+    "lib": ["esnext", "es6", "es2015", "dom"],
+    "sourceMap": true,
+    "allowJs": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "allowSyntheticDefaultImports": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "noUnusedLocals": false,
+    "downlevelIteration": true,
+    "preserveSymlinks": true,
+    "baseUrl": "./",
+    "skipLibCheck": true,
+    "paths": {
+      "@src/*": ["src/*"]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "build",
+  ]
+}

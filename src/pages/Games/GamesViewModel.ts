@@ -1,72 +1,141 @@
-import { action, computed, observable } from 'mobx';
+import { action, IReactionDisposer, observable, reaction } from 'mobx';
 import { IGame, TTag } from '@src/services/types';
 import { RootStore } from '@src/stores/RootStore';
 
-enum FilterSelections {
+export enum FilterSelections {
   ALL = 'All',
 }
 
 export class GamesViewModel {
-  @observable public searchText = '';
-  @observable public sectionFilter = '';
-  @observable public tagsFilter = '';
-  @observable public tags: TTag[] = [];
+  @observable private searchText = '';
+  @observable private sectionFilter = FilterSelections.ALL as string;
+  @observable private tagsFilter = FilterSelections.ALL as string;
+  @observable public isLoading = false;
+  @observable public originalGames: IGame[] = [];
+  @observable public filteredGames: IGame[] = [];
+  @observable public filteredTags: TTag[] = [];
+  @observable public pageNumber = 0;
 
   public root: RootStore;
 
+  public reactionChangePage: IReactionDisposer | undefined;
+  public reactionChangeFilters: IReactionDisposer | undefined;
+  public reactionChangeSearch: IReactionDisposer | undefined;
+  public reactionChangeTags: IReactionDisposer | undefined;
+
   constructor(root: RootStore) {
     this.root = root;
+    this.transformerTags();
+    this.init();
   }
 
-  @action
-  public changeTagsFilter = (value: string) => {
-    this.tagsFilter = value;
-  };
+  public async init() {
+    this.filteredGames = this.transformerGames(await this.loadNextPage());
 
-  @action
-  public changeSearchFilter = (value: string) => {
-    this.searchText = value;
-  };
+    this.reactionChangePage = reaction(
+      () => this.pageNumber,
+      async () => {
+        this.filteredGames = this.transformerGames(await this.loadNextPage());
+      }
+    );
 
-  @action
-  public changeSectionFilter = (value: string) => {
-    this.sectionFilter = value;
-  };
+    // this.reactionChangeFilters = reaction(
+    //   () => this.sectionFilter,
+    //   () => {
+    //     if (this.sectionFilter === FilterSelections.ALL) {
+    //       this.filteredGames = this.transformerGames(this.originalGames);
+    //     }
+    //   }
+    // );
+    //
+    // this.reactionChangeSearch = reaction(
+    //   () => this.searchText !== '',
+    //   () => {
+    //     this.filteredGames = this.transformerGames(this.originalGames);
+    //   }
+    // );
 
-  @computed
-  public get filteredGames(): IGame[] {
-    const { games } = this.root.gamesStore;
+    // this.reactionChangeTags = reaction(
+    //   () => this.tagsFilter,
+    //   async () => {
+    //     if (this.tagsFilter === FilterSelections.ALL) {
+    //       console.log('all');
+    //       this.filteredGames = this.transformerGames(this.originalGames);
+    //     } else {
+    //       this.filteredGames = this.transformerGames(await this.loadNextPage());
+    //     }
+    //   }
+    // );
+  }
 
-    if (!games) {
-      return [];
+  public dispose() {
+    if (this.reactionChangePage) {
+      this.reactionChangePage();
     }
 
-    return this.transformerGames(games);
-  }
+    if (this.reactionChangeFilters) {
+      this.reactionChangeFilters();
+    }
 
-  @computed
-  public get filteredTags(): TTag[] {
-    const { games, gamesTags } = this.root.gamesStore;
-    this.transformerTags(games, gamesTags);
-    return this.tags;
+    if (this.reactionChangeSearch) {
+      this.reactionChangeSearch();
+    }
+
+    if (this.reactionChangeTags) {
+      this.reactionChangeTags();
+    }
   }
 
   @action
-  private transformerTags = (games: IGame[], gamesTags: TTag[]) => {
+  public changeTagsFilter = async (value: string) => {
+    this.tagsFilter = value;
+    this.filteredGames = this.transformerGames(await this.loadNextPage());
+  };
+
+  @action
+  public changeSearchFilter = async (value: string) => {
+    this.searchText = value;
+    this.filteredGames = this.transformerGames(await this.loadNextPage());
+  };
+
+  @action
+  public changeSectionFilter = async (value: string) => {
+    this.sectionFilter = value;
+    this.filteredGames = this.transformerGames(await this.loadNextPage());
+    this.setTags();
+  };
+
+  @action
+  public setTags = () => {
+    return this.transformerTags();
+  };
+
+  @action
+  private transformerTags = () => {
+    const { games, gamesTags } = this.root.gamesStore;
     const filteredTags = new Set<TTag>();
+
+    if (this.sectionFilter === FilterSelections.ALL) {
+      return gamesTags;
+    }
 
     for (const game of games) {
       for (const tag of gamesTags) {
         if (game.tags.includes(tag.name) || game.tags.includes(tag.name.trim().toLowerCase())) {
           filteredTags.add(tag);
+        } else {
+          filteredTags.delete(tag);
         }
       }
     }
 
-    this.tags = [...filteredTags];
+    this.filteredTags = [...filteredTags];
   };
 
-  private transformerGames = (data: IGame[]): IGame[] => {
+  @action
+  public transformerGames = (games: IGame[]) => {
+    this.originalGames = games;
+
     const searchPredicate = (item: IGame) => (this.searchText ? item.name.includes(this.searchText) : true);
 
     const sectionPredicate = (item: IGame) =>
@@ -75,8 +144,24 @@ export class GamesViewModel {
         : true;
 
     const tagPredicate = (item: IGame) =>
-      this.tagsFilter && this.tagsFilter !== FilterSelections.ALL ? item.tags.includes(this.tagsFilter) : true;
+      this.tagsFilter && this.tagsFilter !== FilterSelections.ALL
+        ? item.tags.includes(this.tagsFilter.trim().toLowerCase())
+        : true;
 
-    return data.filter(searchPredicate).filter(sectionPredicate).filter(tagPredicate);
+    return games.filter(searchPredicate).filter(sectionPredicate).filter(tagPredicate);
+  };
+
+  @action
+  public loadNextPage = async () => {
+    this.isLoading = true;
+    const apiGames = await this.root.gamesStore.gamesPageIterator(this.pageNumber);
+    this.isLoading = false;
+    let records: IGame[] = [];
+
+    for await (const record of apiGames) {
+      records = records.concat(record.data);
+    }
+
+    return [...new Set([...this.filteredGames, ...records])];
   };
 }

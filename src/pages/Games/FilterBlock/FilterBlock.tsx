@@ -2,13 +2,14 @@ import { observer } from 'mobx-react';
 import React from 'react';
 import { Button, Col, FormControl, FormSelect, InputGroup, Row } from 'react-bootstrap';
 import s from '@src/pages/Games/Games.css';
+import { FilterSelections } from '@src/pages/Games/GamesViewModel';
 import { useRootStore } from '@src/stores/StoreContext';
 
 const FilterBlock = () => {
   const { gamesViewModel } = useRootStore();
 
-  const listTags = gamesViewModel.filteredTags.map(tag => (
-    <Button className={s.tag} key={tag.id} value={tag.name}>
+  const listTags = gamesViewModel.root.gamesStore.gamesTags.map(tag => (
+    <Button onClick={() => gamesViewModel.changeTagsFilter(tag.name)} className={s.tag} key={tag.id} value={tag.name}>
       {tag.name}
     </Button>
   ));
@@ -24,7 +25,7 @@ const FilterBlock = () => {
       <Row>
         <Col sm={4}>
           <FormSelect onChange={e => gamesViewModel.changeSectionFilter(e.target.value)} aria-label="Games section">
-            <option value={'All'}>All</option>
+            <option value={FilterSelections.ALL}>All</option>
             {listSections}
           </FormSelect>
         </Col>
@@ -41,7 +42,7 @@ const FilterBlock = () => {
       </Row>
       <Row xs="auto">
         <Col>
-          <Button href="#">All</Button>
+          <Button onClick={() => gamesViewModel.changeTagsFilter(FilterSelections.ALL)}>All</Button>
           {listTags}
         </Col>
       </Row>

@@ -7,10 +7,13 @@ import GamesList from '@src/pages/Games/GamesList/GamesList';
 import { useRootStore } from '@src/stores/StoreContext';
 
 const Games = () => {
-  const { gamesStore } = useRootStore();
+  const { gamesStore, gamesViewModel } = useRootStore();
 
   useEffect(() => {
     gamesStore.fetchGames();
+    return () => {
+      gamesViewModel.dispose();
+    };
   }, [gamesStore]);
 
   return (

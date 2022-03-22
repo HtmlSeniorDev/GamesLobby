@@ -17,11 +17,7 @@ export class GamesViewModel {
   @observable public pageNumber = 0;
 
   public root: RootStore;
-
   public reactionChangePage: IReactionDisposer | undefined;
-  public reactionChangeFilters: IReactionDisposer | undefined;
-  public reactionChangeSearch: IReactionDisposer | undefined;
-  public reactionChangeTags: IReactionDisposer | undefined;
 
   constructor(root: RootStore) {
     this.root = root;
@@ -38,51 +34,11 @@ export class GamesViewModel {
         this.filteredGames = this.transformerGames(await this.loadNextPage());
       }
     );
-
-    // this.reactionChangeFilters = reaction(
-    //   () => this.sectionFilter,
-    //   () => {
-    //     if (this.sectionFilter === FilterSelections.ALL) {
-    //       this.filteredGames = this.transformerGames(this.originalGames);
-    //     }
-    //   }
-    // );
-    //
-    // this.reactionChangeSearch = reaction(
-    //   () => this.searchText !== '',
-    //   () => {
-    //     this.filteredGames = this.transformerGames(this.originalGames);
-    //   }
-    // );
-
-    // this.reactionChangeTags = reaction(
-    //   () => this.tagsFilter,
-    //   async () => {
-    //     if (this.tagsFilter === FilterSelections.ALL) {
-    //       console.log('all');
-    //       this.filteredGames = this.transformerGames(this.originalGames);
-    //     } else {
-    //       this.filteredGames = this.transformerGames(await this.loadNextPage());
-    //     }
-    //   }
-    // );
   }
 
   public dispose() {
     if (this.reactionChangePage) {
       this.reactionChangePage();
-    }
-
-    if (this.reactionChangeFilters) {
-      this.reactionChangeFilters();
-    }
-
-    if (this.reactionChangeSearch) {
-      this.reactionChangeSearch();
-    }
-
-    if (this.reactionChangeTags) {
-      this.reactionChangeTags();
     }
   }
 

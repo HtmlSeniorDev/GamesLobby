@@ -13,7 +13,7 @@
   ],
   "ignorePatterns": [
     "node_modules",
-    "build",
+    "build"
   ],
 
   "parser": "@typescript-eslint/parser",

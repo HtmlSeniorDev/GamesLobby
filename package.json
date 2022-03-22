@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start": "webpack-dev-server --config webpack.dev.js",
-    "build": "webpack --config webpack.dev.js"
+    "start": "webpack-dev-server --config src/config/webpack.dev.js",
+    "build": "webpack --config src/config/webpack.dev.js"
 
   },
   "dependencies": {

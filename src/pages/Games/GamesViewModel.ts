@@ -55,47 +55,19 @@ export class GamesViewModel {
   }
 
   @action
-  public changeTagsFilter = async (value: string) => {
+  public changeTagsFilter = (value: string) => {
     this.tagsFilter = value;
   };
 
   @action
-  public changeSearchFilter = async (value: string) => {
+  public changeSearchFilter = (value: string) => {
     this.searchText = value;
   };
 
   @action
-  public changeSectionFilter = async (value: string) => {
+  public changeSectionFilter = (value: string) => {
     this.sectionFilter = value;
-    // this.setTags();
   };
-
-  // @action
-  // public setTags = () => {
-  //   return this.transformerTags();
-  // };
-
-  // @action
-  // private transformerTags = () => {
-  //   const { games, gamesTags } = this.root.gamesStore;
-  //   const filteredTags = new Set<TTag>();
-  //
-  //   if (this.sectionFilter === FilterSelections.ALL) {
-  //     return gamesTags;
-  //   }
-  //
-  //   for (const game of games) {
-  //     for (const tag of gamesTags) {
-  //       if (game.tags.includes(tag.name) || game.tags.includes(tag.name.trim().toLowerCase())) {
-  //         filteredTags.add(tag);
-  //       } else {
-  //         filteredTags.delete(tag);
-  //       }
-  //     }
-  //   }
-  //
-  //   this.filteredTags = [...filteredTags];
-  // };
 
   @action
   public loadNextPage = async () => {

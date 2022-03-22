@@ -7,14 +7,15 @@ import { useRootStore } from '@src/stores/StoreContext';
 
 const FilterBlock = () => {
   const { gamesViewModel } = useRootStore();
+  const { gamesStore } = gamesViewModel.root;
 
-  const listTags = gamesViewModel.root.gamesStore.gamesTags.map(tag => (
+  const listTags = gamesStore.gamesTags.map(tag => (
     <Button onClick={() => gamesViewModel.changeTagsFilter(tag.name)} className={s.tag} key={tag.id} value={tag.name}>
       {tag.name}
     </Button>
   ));
 
-  const listSections = gamesViewModel.root.gamesStore.gamesSections.map(section => (
+  const listSections = gamesStore.gamesSections.map(section => (
     <option key={section.id} value={section.name}>
       {section.name}
     </option>

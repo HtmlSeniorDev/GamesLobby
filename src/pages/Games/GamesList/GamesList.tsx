@@ -32,8 +32,8 @@ export const GamesList = () => {
             </Button>
           );
         })}
+        <div ref={triggerRef} />;
       </Row>
-      <div ref={triggerRef} />;
     </>
   );
 };

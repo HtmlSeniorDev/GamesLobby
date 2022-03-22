@@ -45,19 +45,20 @@ export class GamesViewModel {
   @action
   public changeTagsFilter = async (value: string) => {
     this.tagsFilter = value;
-    this.filteredGames = this.transformerGames(await this.loadNextPage());
+    this.filteredGames = this.transformerGames(this.originalGames);
   };
 
   @action
   public changeSearchFilter = async (value: string) => {
     this.searchText = value;
-    this.filteredGames = this.transformerGames(await this.loadNextPage());
+    this.filteredGames = this.transformerGames(this.originalGames);
   };
 
   @action
   public changeSectionFilter = async (value: string) => {
     this.sectionFilter = value;
-    this.filteredGames = this.transformerGames(await this.loadNextPage());
+    this.filteredGames = this.transformerGames(this.originalGames);
+    await this.loadNextPage();
     this.setTags();
   };
 
@@ -96,12 +97,12 @@ export class GamesViewModel {
 
     const sectionPredicate = (item: IGame) =>
       this.sectionFilter && this.sectionFilter !== FilterSelections.ALL
-        ? item.section.includes(this.sectionFilter.trim().toLowerCase() || item.section)
+        ? item.section.includes(this.sectionFilter.trim().toLowerCase()) || item.section.includes(this.sectionFilter)
         : true;
 
     const tagPredicate = (item: IGame) =>
       this.tagsFilter && this.tagsFilter !== FilterSelections.ALL
-        ? item.tags.includes(this.tagsFilter.trim().toLowerCase())
+        ? item.tags.includes(this.tagsFilter.trim().toLowerCase()) || item.tags.includes(this.tagsFilter)
         : true;
 
     return games.filter(searchPredicate).filter(sectionPredicate).filter(tagPredicate);

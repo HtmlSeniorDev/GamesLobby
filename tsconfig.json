@@ -21,11 +21,14 @@
     "baseUrl": "./",
     "skipLibCheck": true,
     "paths": {
-      "@src/*": ["src/*"]
+      "@src/*": ["src/*"],
+      "@/*": ["src/*"]
     }
   },
   "exclude": [
-    "node_modules",
-    "build",
+      "node_modules",
+      "src/typing",
+      "build",
+      "config",
   ]
 }

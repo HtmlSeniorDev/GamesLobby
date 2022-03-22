@@ -1,5 +1,5 @@
-import { action, IReactionDisposer, observable, reaction } from 'mobx';
-import { IGame, TTag } from '@src/services/types';
+import { action, computed, IReactionDisposer, observable, reaction } from 'mobx';
+import { IGame } from '@src/services/types';
 import { RootStore } from '@src/stores/RootStore';
 
 export enum FilterSelections {
@@ -11,9 +11,7 @@ export class GamesViewModel {
   @observable private sectionFilter = FilterSelections.ALL as string;
   @observable private tagsFilter = FilterSelections.ALL as string;
   @observable public isLoading = false;
-  @observable public originalGames: IGame[] = [];
-  @observable public filteredGames: IGame[] = [];
-  @observable public filteredTags: TTag[] = [];
+  @observable public pages: IGame[] = [];
   @observable public pageNumber = 0;
 
   public root: RootStore;
@@ -21,17 +19,15 @@ export class GamesViewModel {
 
   constructor(root: RootStore) {
     this.root = root;
-    this.transformerTags();
     this.init();
   }
 
   public async init() {
-    this.filteredGames = this.transformerGames(await this.loadNextPage());
-
+    this.pages = await this.loadNextPage();
     this.reactionChangePage = reaction(
       () => this.pageNumber,
       async () => {
-        this.filteredGames = this.transformerGames(await this.loadNextPage());
+        this.pages = await this.loadNextPage();
       }
     );
   }
@@ -42,57 +38,7 @@ export class GamesViewModel {
     }
   }
 
-  @action
-  public changeTagsFilter = async (value: string) => {
-    this.tagsFilter = value;
-    this.filteredGames = this.transformerGames(this.originalGames);
-  };
-
-  @action
-  public changeSearchFilter = async (value: string) => {
-    this.searchText = value;
-    this.filteredGames = this.transformerGames(this.originalGames);
-  };
-
-  @action
-  public changeSectionFilter = async (value: string) => {
-    this.sectionFilter = value;
-    this.filteredGames = this.transformerGames(this.originalGames);
-    await this.loadNextPage();
-    this.setTags();
-  };
-
-  @action
-  public setTags = () => {
-    return this.transformerTags();
-  };
-
-  @action
-  private transformerTags = () => {
-    const { games, gamesTags } = this.root.gamesStore;
-    const filteredTags = new Set<TTag>();
-
-    if (this.sectionFilter === FilterSelections.ALL) {
-      return gamesTags;
-    }
-
-    for (const game of games) {
-      for (const tag of gamesTags) {
-        if (game.tags.includes(tag.name) || game.tags.includes(tag.name.trim().toLowerCase())) {
-          filteredTags.add(tag);
-        } else {
-          filteredTags.delete(tag);
-        }
-      }
-    }
-
-    this.filteredTags = [...filteredTags];
-  };
-
-  @action
-  public transformerGames = (games: IGame[]) => {
-    this.originalGames = games;
-
+  @computed public get filteredPages() {
     const searchPredicate = (item: IGame) => (this.searchText ? item.name.includes(this.searchText) : true);
 
     const sectionPredicate = (item: IGame) =>
@@ -105,8 +51,51 @@ export class GamesViewModel {
         ? item.tags.includes(this.tagsFilter.trim().toLowerCase()) || item.tags.includes(this.tagsFilter)
         : true;
 
-    return games.filter(searchPredicate).filter(sectionPredicate).filter(tagPredicate);
+    return this.pages.filter(searchPredicate).filter(sectionPredicate).filter(tagPredicate);
+  }
+
+  @action
+  public changeTagsFilter = async (value: string) => {
+    this.tagsFilter = value;
   };
+
+  @action
+  public changeSearchFilter = async (value: string) => {
+    this.searchText = value;
+  };
+
+  @action
+  public changeSectionFilter = async (value: string) => {
+    this.sectionFilter = value;
+    // this.setTags();
+  };
+
+  // @action
+  // public setTags = () => {
+  //   return this.transformerTags();
+  // };
+
+  // @action
+  // private transformerTags = () => {
+  //   const { games, gamesTags } = this.root.gamesStore;
+  //   const filteredTags = new Set<TTag>();
+  //
+  //   if (this.sectionFilter === FilterSelections.ALL) {
+  //     return gamesTags;
+  //   }
+  //
+  //   for (const game of games) {
+  //     for (const tag of gamesTags) {
+  //       if (game.tags.includes(tag.name) || game.tags.includes(tag.name.trim().toLowerCase())) {
+  //         filteredTags.add(tag);
+  //       } else {
+  //         filteredTags.delete(tag);
+  //       }
+  //     }
+  //   }
+  //
+  //   this.filteredTags = [...filteredTags];
+  // };
 
   @action
   public loadNextPage = async () => {
@@ -119,6 +108,6 @@ export class GamesViewModel {
       records = records.concat(record.data);
     }
 
-    return [...new Set([...this.filteredGames, ...records])];
+    return [...new Set([...this.pages, ...records])];
   };
 }

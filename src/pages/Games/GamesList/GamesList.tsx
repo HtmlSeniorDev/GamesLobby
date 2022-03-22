@@ -25,7 +25,7 @@ export const GamesList = () => {
   return (
     <>
       <Row>
-        {gamesViewModel.filteredGames.map(game => {
+        {gamesViewModel.filteredPages.map(game => {
           return (
             <Button className={s.gameCard} key={game.string_id}>
               {game.name}
